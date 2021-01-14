@@ -12,7 +12,7 @@
         position: absolute;
         top: 0;
         left: 0;
-        background-color: #e0301e;
+        background-color: #ffffff;
         z-index: 9999;
         display: flex;
         justify-content: center;
@@ -35,8 +35,8 @@
     </div>
     <a-scene embedded arjs>
         <a-marker preset="hiro">
-            <a-entity position="0 0 0" scale="0.05 0.05 0.05"
-                gltf-model="https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/AR-js-org/AR.js/master/aframe/examples/image-tracking/nft/trex/scene.gltf">
+            <a-entity position="0 0 0" scale="1 1 1"
+                gltf-model="assets/earth/scene.gltf">
             </a-entity>
         </a-marker>
         <a-entity camera></a-entity>
@@ -46,8 +46,7 @@
 <script>
     setTimeout(function () {
         $('.arjs-loader').hide();
-        alert('functioning');
-    }, 3000);
+    }, 5000);
 </script>
 
 </html>
