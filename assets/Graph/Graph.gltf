@@ -422,6 +422,12 @@
                 ],
                 "metallicFactor" : 0.0
             }
+        },
+        {
+            "name" : "Text",
+            "pbrMetallicRoughness" : {
+                "metallicFactor" : 0.0
+            }
         }
     ],
     "meshes" : [
@@ -462,7 +468,8 @@
                         "NORMAL" : 11,
                         "POSITION" : 10
                     },
-                    "indices" : 9
+                    "indices" : 9,
+                    "material" : 3
                 }
             ]
         },
@@ -474,7 +481,8 @@
                         "NORMAL" : 14,
                         "POSITION" : 13
                     },
-                    "indices" : 12
+                    "indices" : 12,
+                    "material" : 3
                 }
             ]
         },
@@ -486,7 +494,8 @@
                         "NORMAL" : 17,
                         "POSITION" : 16
                     },
-                    "indices" : 15
+                    "indices" : 15,
+                    "material" : 3
                 }
             ]
         }
