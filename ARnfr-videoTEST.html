@@ -30,7 +30,7 @@
         position: absolute;
         top: 0;
         left: 0;
-        background-color: rgba(0, 0, 0, 0.8);
+        background-color: #ffffff;
         z-index: 9999;
         display: flex;
         justify-content: center;
@@ -40,13 +40,15 @@
     .arjs-loader div {
         text-align: center;
         font-size: 1.25em;
-        color: white;
+        color: #000000;
     }
 </style>
 
 <body style='margin : 0px; overflow: hidden;'>
     <div class="arjs-loader">
-        <div>Loading, please wait...</div>
+        <div><img src="img/TCS_Logo_CSR-1.jpg" alt="">
+            <p>Loading please wait</p>
+        </div>
     </div>
     <a-scene vr-mode-ui="enabled: false;" renderer='antialias: true; alpha: true; precision: mediump;' embedded
         arjs='trackingMethod: best; sourceType: webcam; debugUIEnabled: false;'>
