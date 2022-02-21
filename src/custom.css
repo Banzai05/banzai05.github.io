@@ -1,0 +1,77 @@
+/* banner section */
+.mainBanner {
+    background: url("./img/banner.jpg") center center;
+    background-size: cover;
+    height: calc(100vh - 56px);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mainBanner h1 {
+    text-align: center;
+    color: #fff;
+    z-index: 1;
+    /* font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif; */
+}
+
+/* profile section */
+
+.profilePic {
+    border-radius: 50%;
+    width: 60%;
+}
+
+.skillTag {
+    background-color: #000;
+    color: #fff;
+    padding: 5px;
+
+}
+
+/* ExperienceSec */
+
+#experienceSec {
+    background: #dedede;
+}
+
+img.tcsLogo {
+    max-width: 336px;
+}
+
+.learnMoreBtn {
+    padding: 10px 15px 10px 15px;
+    background-color: #000;
+    color: #fff;
+    text-decoration: none;
+}
+
+.learnMoreBtn:hover {
+    background-color: #7d7d7d;
+}
+
+a.learnMoreBtn:hover {
+    color: #fff;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card img {
+    max-width: 128px;
+}
+
+@media (min-width: 768px) {
+    .profilePic {
+        width: 70%;
+    }
+}
+
+/* .mainBanner span {
+    background-color: #e0301e;
+    box-shadow: 15px 0 0 #e0301e, -15px 0 0 #e0301e;
+} */
