@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2acbe5ce.css",
-    "main.js": "/static/js/main.ec28c379.js",
+    "main.css": "/static/css/main.3f9d933d.css",
+    "main.js": "/static/js/main.d43da742.js",
     "static/js/787.9caf417c.chunk.js": "/static/js/787.9caf417c.chunk.js",
     "static/media/banner.jpg": "/static/media/banner.94c69d5d555c1d0a73a9.jpg",
     "static/media/Star_of_the_Month_Award_2019.pdf": "/static/media/Star_of_the_Month_Award_2019.793e58cf4985e1b02a15.pdf",
@@ -11,14 +11,13 @@
     "static/media/medal.png": "/static/media/medal.b4da14b585c28396ba35.png",
     "static/media/handshake.png": "/static/media/handshake.15b095a5e24127539eda.png",
     "static/media/tcsLogo.png": "/static/media/tcsLogo.9245a9724d609d54c7a0.png",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.2acbe5ce.css.map": "/static/css/main.2acbe5ce.css.map",
-    "main.ec28c379.js.map": "/static/js/main.ec28c379.js.map",
+    "main.3f9d933d.css.map": "/static/css/main.3f9d933d.css.map",
+    "main.d43da742.js.map": "/static/js/main.d43da742.js.map",
     "787.9caf417c.chunk.js.map": "/static/js/787.9caf417c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2acbe5ce.css",
-    "static/js/main.ec28c379.js"
+    "static/css/main.3f9d933d.css",
+    "static/js/main.d43da742.js"
   ]
 }
