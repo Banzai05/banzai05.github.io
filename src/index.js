@@ -16,25 +16,6 @@ import ExperienceComp from './experience.js';
 import FooterComp from './footer.js'
 import reactDom from 'react-dom';
 
-// ReactDOM.render(
-//   <React.StrictMode>
-//     <App />
-//   </React.StrictMode>,
-//   document.getElementById('root')
-// );
-
-const Component1 = () =>
-  <Container>
-    <Row>
-      <Col md={6}>
-        <p>adas</p>
-      </Col>
-      <Col md={6}>
-        <p>adas</p>
-      </Col>
-    </Row>
-  </Container>
-
 ReactDOM.render(
   <NavbarComp />, document.getElementById('navBar')
 )
