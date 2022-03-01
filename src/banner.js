@@ -5,7 +5,7 @@ const BannerComp = () =>
     <Container fluid>
         <Row>
             <Col className="mainBanner">
-                <h1><span>Hola! mi nombre es Esequiel Morales y creo paginas web!</span></h1>
+                <h1><span>Hola! mi nombre es Esequiel Morales y creo paginas web</span></h1>
             </Col>
         </Row>
     </Container>
