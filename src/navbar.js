@@ -16,10 +16,4 @@ const NavbarComp = () => <Navbar bg="light" expand="md" fixed='top'>
     </Container>
 </Navbar>
 
-// function navbarComp() {
-//     return (
-
-//     );
-// }
-
 export default NavbarComp;
