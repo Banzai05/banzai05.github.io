@@ -1,5 +1,4 @@
 import { Row, Container, Col } from "react-bootstrap"
-// import bannerIMG from "./img/r32.jpeg"
 import './custom.css'
 
 const BannerComp = () =>

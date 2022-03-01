@@ -14,7 +14,7 @@ const ProfileComp = () =>
             </Col>
 
             <Col md={8} className="d-flex justify-content-center align-items-center">
-                <p className="mt-5 mt-md-0">Mi nombre es Esequiel, soy uruguayo de 22 años y actualmente vivo en Barcelona, España. Estudie en la escuela superior deinformatica (Uruguay) y trabaje en una de las empresas de IT mas grandes de Uruguay como desarrollador web. Ahi aprendi y descubrí que el desarrollo web es la orientacion que me gusta, Hoy en dia busco nuevos desafios y lo más importante poder seguir aprendiendo y desarrollandome en esta area que tanto me gusta.
+                <p className="mt-5 mt-md-0">Mi nombre es Esequiel, soy uruguayo de 22 años y actualmente vivo en Barcelona, España. Estudie en la escuela superior de informatica (Uruguay) y trabaje en una de las empresas de IT mas grandes de Uruguay como desarrollador web. Ahi aprendi y descubrí que el desarrollo web es la orientacion que me gusta, Hoy en dia busco nuevos desafios y lo más importante poder seguir aprendiendo y desarrollandome en esta area que tanto me gusta.
                 </p>
             </Col>
         </Row>

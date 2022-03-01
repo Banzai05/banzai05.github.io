@@ -10,7 +10,7 @@ const ExperienceComp = () =>
     <Container className="mt-5 py-5">
         <Row>
             <Col>
-                <h2>Trayectoria y reconocimientos</h2>
+                <h2 className="mt-4">Trayectoria y reconocimientos</h2>
             </Col>
         </Row>
         <Row>

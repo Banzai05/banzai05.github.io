@@ -2,7 +2,7 @@
 .mainBanner {
     background: url("./img/banner.jpg") center center;
     background-size: cover;
-    height: calc(100vh - 56px);
+    height: calc(100vh);
     width: 100%;
     display: flex;
     justify-content: center;
@@ -27,7 +27,6 @@
     background-color: #000;
     color: #fff;
     padding: 5px;
-
 }
 
 /* ExperienceSec */
@@ -45,6 +44,7 @@ img.tcsLogo {
     background-color: #000;
     color: #fff;
     text-decoration: none;
+    transition: .3s;
 }
 
 .learnMoreBtn:hover {
@@ -64,6 +64,25 @@ a.learnMoreBtn:hover {
 .card img {
     max-width: 128px;
 }
+
+/* Footer */
+footer {
+    background-color: #000;
+    height: 150px;
+    display: flex;
+}
+
+footer .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer p {
+    margin-bottom: 0;
+    color: #fff;
+}
+
 
 @media (min-width: 768px) {
     .profilePic {
