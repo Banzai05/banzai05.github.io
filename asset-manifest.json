@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.3f9d933d.css",
-    "main.js": "/static/js/main.d43da742.js",
+    "main.css": "/static/css/main.fe00f5fc.css",
+    "main.js": "/static/js/main.a6222ca8.js",
     "static/js/787.9caf417c.chunk.js": "/static/js/787.9caf417c.chunk.js",
-    "static/media/banner.jpg": "/static/media/banner.94c69d5d555c1d0a73a9.jpg",
+    "static/media/banner.jpg": "/static/media/banner.cd6d13fa3e58ee622d46.jpg",
     "static/media/Star_of_the_Month_Award_2019.pdf": "/static/media/Star_of_the_Month_Award_2019.793e58cf4985e1b02a15.pdf",
     "static/media/Star_of_the_Month_Award_2021.pdf": "/static/media/Star_of_the_Month_Award_2021.168a82a7f3016d2385db.pdf",
     "static/media/profile.png": "/static/media/profile.ef2e453e2396d5703efd.png",
@@ -12,12 +12,13 @@
     "static/media/handshake.png": "/static/media/handshake.15b095a5e24127539eda.png",
     "static/media/tcsLogo.png": "/static/media/tcsLogo.9245a9724d609d54c7a0.png",
     "index.html": "/index.html",
-    "main.3f9d933d.css.map": "/static/css/main.3f9d933d.css.map",
-    "main.d43da742.js.map": "/static/js/main.d43da742.js.map",
+    "static/media/toggler.svg": "/static/media/toggler.2855c9bbf250d7110178.svg",
+    "main.fe00f5fc.css.map": "/static/css/main.fe00f5fc.css.map",
+    "main.a6222ca8.js.map": "/static/js/main.a6222ca8.js.map",
     "787.9caf417c.chunk.js.map": "/static/js/787.9caf417c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f9d933d.css",
-    "static/js/main.d43da742.js"
+    "static/css/main.fe00f5fc.css",
+    "static/js/main.a6222ca8.js"
   ]
 }
