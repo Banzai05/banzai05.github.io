@@ -1,3 +1,33 @@
+/* navbar */
+#navBar .navbar-light .navbar-toggler {
+    border-color: rgba(0, 0, 0, 0);
+}
+
+#navBar .navbar-light {
+    background-color: rgba(0,0,0,0)!important;
+    color: #fff;
+    transition: .5s
+}
+
+#navBar .navbar-light a.nav-link, #navBar .navbar-light a.navbar-brand {
+    color: #fff;
+}
+
+#navBar .navbar-light.navScrolled {
+    background-color: #000!important;
+    color: #fff;
+}
+
+.navbar-light .navbar-toggler-icon {
+    background-image: url("./img/toggler.svg");
+}
+
+.navbar-toggler:focus {
+    text-decoration: none;
+    outline: 0;
+    box-shadow: none;
+}
+
 /* banner section */
 .mainBanner {
     background: url("./img/banner.jpg") center center;
@@ -89,8 +119,3 @@ footer p {
         width: 70%;
     }
 }
-
-/* .mainBanner span {
-    background-color: #e0301e;
-    box-shadow: 15px 0 0 #e0301e, -15px 0 0 #e0301e;
-} */
