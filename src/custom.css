@@ -69,6 +69,10 @@ img.tcsLogo {
     max-width: 336px;
 }
 
+img.avidanLogo {
+    max-width: 240px;
+}
+
 .learnMoreBtn {
     padding: 10px 15px 10px 15px;
     background-color: #000;
