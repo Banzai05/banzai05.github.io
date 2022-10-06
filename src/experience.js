@@ -1,5 +1,5 @@
 import { Container, Row, Col } from "react-bootstrap";
-import tcsLogo from '../src/img/tcsLogo.png'
+import tcsLogo from '../src/img/logoTCS.png'
 import avidanLogo from '../src/img/avidanPropertiesLogo.jpeg'
 import medalLogo from "../src/img/medal.png"
 import handShake from "../src/img/handshake.png"
@@ -18,8 +18,9 @@ const ExperienceComp = () =>
             <Col md={6} className="d-flex justify-content-center align-items-center">
                 <img className="avidanLogo w-50" src={avidanLogo}></img>
             </Col>
-            <Col md={6} className="d-flex align-items-center justify-content-center">
-                <p className="mb-0 mt-3 mt-md-0">Developer <br />abr. 2022 - Oct. 2022<br /></p>
+            <Col md={6} className="d-flex align-items-center justify-content-center flex-column">
+                <h4 className="mt-4 mt-md-0">Avidan Properties</h4>
+                <p className="mb-0">Developer <br />abr. 2022 - Oct. 2022<br /></p>
             </Col>
         </Row>
         <hr></hr>
@@ -27,7 +28,8 @@ const ExperienceComp = () =>
             <Col md={6} className="d-flex justify-content-center align-items-center">
                 <img className="w-100 tcsLogo" src={tcsLogo}></img>
             </Col>
-            <Col md={6} className="d-flex align-items-center justify-content-center">
+            <Col md={6} className="d-flex align-items-center justify-content-center flex-column">
+                <h4 className="mt-4 mt-md-0">Tata Consultancy Services</h4>
                 <p className="mb-0">Web developer <br />abr. 2019 - nov. 2021<br /></p>
             </Col>
         </Row>

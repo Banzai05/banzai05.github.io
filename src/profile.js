@@ -49,7 +49,7 @@ const ProfileComp = () =>
             </Col>
             <Col xs="12" sm="6" md="2" className="d-flex justify-content-center align-items-center flex-column my-4 ">
                 <img className="iconSkill" src={jqueryIcon}></img>
-                <span className="skillTag">Jquery</span>
+                <span className="skillTag">jQuery</span>
             </Col>
             <Col xs="12" sm="6" md="3" className="d-flex justify-content-center align-items-center flex-column my-4 ">
                 <img className="iconSkill" src={reactIcon}></img>
