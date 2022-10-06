@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c0ff5ec2.css",
-    "main.js": "/static/js/main.f51d11eb.js",
+    "main.js": "/static/js/main.31337a57.js",
     "static/js/787.9caf417c.chunk.js": "/static/js/787.9caf417c.chunk.js",
     "static/media/banner.jpg": "/static/media/banner.cd6d13fa3e58ee622d46.jpg",
     "static/media/avidanPropertiesLogo.jpeg": "/static/media/avidanPropertiesLogo.e169441e9d5d139c90f1.jpeg",
@@ -15,11 +15,11 @@
     "index.html": "/index.html",
     "static/media/toggler.svg": "/static/media/toggler.2855c9bbf250d7110178.svg",
     "main.c0ff5ec2.css.map": "/static/css/main.c0ff5ec2.css.map",
-    "main.f51d11eb.js.map": "/static/js/main.f51d11eb.js.map",
+    "main.31337a57.js.map": "/static/js/main.31337a57.js.map",
     "787.9caf417c.chunk.js.map": "/static/js/787.9caf417c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c0ff5ec2.css",
-    "static/js/main.f51d11eb.js"
+    "static/js/main.31337a57.js"
   ]
 }
