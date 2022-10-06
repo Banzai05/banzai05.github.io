@@ -57,6 +57,12 @@
     background-color: #000;
     color: #fff;
     padding: 5px;
+    margin-top: 10px;
+}
+
+.iconSkill {
+    max-height: 64px;
+    max-width: 64px;
 }
 
 /* ExperienceSec */
@@ -116,7 +122,6 @@ footer p {
     margin-bottom: 0;
     color: #fff;
 }
-
 
 @media (min-width: 768px) {
     .profilePic {
