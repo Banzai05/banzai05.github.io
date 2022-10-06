@@ -19,7 +19,7 @@ const ExperienceComp = () =>
                 <img className="avidanLogo w-50" src={avidanLogo}></img>
             </Col>
             <Col md={6} className="d-flex align-items-center justify-content-center">
-                <p className="mb-0 mt-3 mt-md-0">Developer <br />abr. 2022 - Actualidad<br /></p>
+                <p className="mb-0 mt-3 mt-md-0">Developer <br />abr. 2022 - Oct. 2022<br /></p>
             </Col>
         </Row>
         <hr></hr>
