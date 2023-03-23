@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ea9a9394.css",
-    "main.js": "/static/js/main.da58c35f.js",
+    "main.js": "/static/js/main.37bec41a.js",
     "static/media/banner.jpg": "/static/media/banner.cd6d13fa3e58ee622d46.jpg",
     "static/media/avidanPropertiesLogo.jpeg": "/static/media/avidanPropertiesLogo.e169441e9d5d139c90f1.jpeg",
     "static/media/Star_of_the_Month_Award_2019.pdf": "/static/media/Star_of_the_Month_Award_2019.793e58cf4985e1b02a15.pdf",
@@ -25,10 +25,10 @@
     "index.html": "/index.html",
     "static/media/toggler.svg": "/static/media/toggler.2855c9bbf250d7110178.svg",
     "main.ea9a9394.css.map": "/static/css/main.ea9a9394.css.map",
-    "main.da58c35f.js.map": "/static/js/main.da58c35f.js.map"
+    "main.37bec41a.js.map": "/static/js/main.37bec41a.js.map"
   },
   "entrypoints": [
     "static/css/main.ea9a9394.css",
-    "static/js/main.da58c35f.js"
+    "static/js/main.37bec41a.js"
   ]
 }
