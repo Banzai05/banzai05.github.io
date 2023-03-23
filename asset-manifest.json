@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ea9a9394.css",
-    "main.js": "/static/js/main.37bec41a.js",
+    "main.css": "/static/css/main.3dad5813.css",
+    "main.js": "/static/js/main.b69a763c.js",
     "static/media/banner.jpg": "/static/media/banner.cd6d13fa3e58ee622d46.jpg",
     "static/media/avidanPropertiesLogo.jpeg": "/static/media/avidanPropertiesLogo.e169441e9d5d139c90f1.jpeg",
     "static/media/Star_of_the_Month_Award_2019.pdf": "/static/media/Star_of_the_Month_Award_2019.793e58cf4985e1b02a15.pdf",
@@ -24,11 +24,11 @@
     "static/media/js.png": "/static/media/js.3dfb665e058d08c99f28.png",
     "index.html": "/index.html",
     "static/media/toggler.svg": "/static/media/toggler.2855c9bbf250d7110178.svg",
-    "main.ea9a9394.css.map": "/static/css/main.ea9a9394.css.map",
-    "main.37bec41a.js.map": "/static/js/main.37bec41a.js.map"
+    "main.3dad5813.css.map": "/static/css/main.3dad5813.css.map",
+    "main.b69a763c.js.map": "/static/js/main.b69a763c.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea9a9394.css",
-    "static/js/main.37bec41a.js"
+    "static/css/main.3dad5813.css",
+    "static/js/main.b69a763c.js"
   ]
 }
