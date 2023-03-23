@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.3dad5813.css",
-    "main.js": "/static/js/main.b69a763c.js",
-    "static/media/banner.jpg": "/static/media/banner.cd6d13fa3e58ee622d46.jpg",
+    "main.css": "/static/css/main.8f939060.css",
+    "main.js": "/static/js/main.98679484.js",
     "static/media/avidanPropertiesLogo.jpeg": "/static/media/avidanPropertiesLogo.e169441e9d5d139c90f1.jpeg",
     "static/media/Star_of_the_Month_Award_2019.pdf": "/static/media/Star_of_the_Month_Award_2019.793e58cf4985e1b02a15.pdf",
     "static/media/Star_of_the_Month_Award_2021.pdf": "/static/media/Star_of_the_Month_Award_2021.168a82a7f3016d2385db.pdf",
     "static/media/profile.png": "/static/media/profile.ef2e453e2396d5703efd.png",
     "static/media/Recognition_Q2_21.pdf": "/static/media/Recognition_Q2_21.bb5b7b3cdbc15965b722.pdf",
+    "static/media/banner.webp": "/static/media/banner.74a69928b3a22cf4f4ae.webp",
     "static/media/BingoPreview.jpg": "/static/media/BingoPreview.2c677f3d302096ce84af.jpg",
     "static/media/logoTCS.png": "/static/media/logoTCS.35b489ca505a2fe748ea.png",
     "static/media/sql-server.png": "/static/media/sql-server.cf0b0ab7d1d32ea2e740.png",
@@ -18,17 +18,17 @@
     "static/media/handshake.png": "/static/media/handshake.15b095a5e24127539eda.png",
     "static/media/bootstrap.png": "/static/media/bootstrap.bcb873a30b541b4930f4.png",
     "static/media/tcsLogo.png": "/static/media/tcsLogo.c02f5e9560243a54a58b.png",
-    "static/media/html-5.png": "/static/media/html-5.e25a587bd69f08e2dc24.png",
+    "static/media/html-5.webp": "/static/media/html-5.7ab101b87eba9140919f.webp",
     "static/media/css-3.png": "/static/media/css-3.463e319bad8e0edf1ef7.png",
     "static/media/jquery.png": "/static/media/jquery.01c01b93a64a5c10c47f.png",
     "static/media/js.png": "/static/media/js.3dfb665e058d08c99f28.png",
     "index.html": "/index.html",
     "static/media/toggler.svg": "/static/media/toggler.2855c9bbf250d7110178.svg",
-    "main.3dad5813.css.map": "/static/css/main.3dad5813.css.map",
-    "main.b69a763c.js.map": "/static/js/main.b69a763c.js.map"
+    "main.8f939060.css.map": "/static/css/main.8f939060.css.map",
+    "main.98679484.js.map": "/static/js/main.98679484.js.map"
   },
   "entrypoints": [
-    "static/css/main.3dad5813.css",
-    "static/js/main.b69a763c.js"
+    "static/css/main.8f939060.css",
+    "static/js/main.98679484.js"
   ]
 }
