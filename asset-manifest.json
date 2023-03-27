@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9acac285.css",
-    "main.js": "/static/js/main.53597643.js",
+    "main.css": "/static/css/main.1770eff6.css",
+    "main.js": "/static/js/main.ffbdceef.js",
     "static/media/Star_of_the_Month_Award_2019.pdf": "/static/media/Star_of_the_Month_Award_2019.793e58cf4985e1b02a15.pdf",
     "static/media/Star_of_the_Month_Award_2021.pdf": "/static/media/Star_of_the_Month_Award_2021.168a82a7f3016d2385db.pdf",
     "static/media/Recognition_Q2_21.pdf": "/static/media/Recognition_Q2_21.bb5b7b3cdbc15965b722.pdf",
@@ -23,11 +23,11 @@
     "static/media/bootstrap.webp": "/static/media/bootstrap.0823136573b28cd37748.webp",
     "index.html": "/index.html",
     "static/media/toggler.svg": "/static/media/toggler.2855c9bbf250d7110178.svg",
-    "main.9acac285.css.map": "/static/css/main.9acac285.css.map",
-    "main.53597643.js.map": "/static/js/main.53597643.js.map"
+    "main.1770eff6.css.map": "/static/css/main.1770eff6.css.map",
+    "main.ffbdceef.js.map": "/static/js/main.ffbdceef.js.map"
   },
   "entrypoints": [
-    "static/css/main.9acac285.css",
-    "static/js/main.53597643.js"
+    "static/css/main.1770eff6.css",
+    "static/js/main.ffbdceef.js"
   ]
 }
