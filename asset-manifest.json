@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1c629988.css",
-    "main.js": "/static/js/main.9472a785.js",
+    "main.css": "/static/css/main.5c91224d.css",
+    "main.js": "/static/js/main.4e136548.js",
     "static/media/Star_of_the_Month_Award_2019.pdf": "/static/media/Star_of_the_Month_Award_2019.793e58cf4985e1b02a15.pdf",
     "static/media/Star_of_the_Month_Award_2021.pdf": "/static/media/Star_of_the_Month_Award_2021.168a82a7f3016d2385db.pdf",
     "static/media/Recognition_Q2_21.pdf": "/static/media/Recognition_Q2_21.bb5b7b3cdbc15965b722.pdf",
@@ -24,12 +24,13 @@
     "static/media/bootstrap.webp": "/static/media/bootstrap.0823136573b28cd37748.webp",
     "index.html": "/index.html",
     "static/media/download.svg": "/static/media/download.399aabf31ccdce1f76685bda3acd3e38.svg",
+    "static/media/close.svg": "/static/media/close.e2e72ce7f78b0821ffcc.svg",
     "static/media/toggler.svg": "/static/media/toggler.2855c9bbf250d7110178.svg",
-    "main.1c629988.css.map": "/static/css/main.1c629988.css.map",
-    "main.9472a785.js.map": "/static/js/main.9472a785.js.map"
+    "main.5c91224d.css.map": "/static/css/main.5c91224d.css.map",
+    "main.4e136548.js.map": "/static/js/main.4e136548.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c629988.css",
-    "static/js/main.9472a785.js"
+    "static/css/main.5c91224d.css",
+    "static/js/main.4e136548.js"
   ]
 }
