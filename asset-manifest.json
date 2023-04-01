@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a65b81c4.css",
-    "main.js": "/static/js/main.79c385b7.js",
+    "main.css": "/static/css/main.d6cf43fd.css",
+    "main.js": "/static/js/main.60ba7254.js",
     "static/media/Star_of_the_Month_Award_2019.pdf": "/static/media/Star_of_the_Month_Award_2019.793e58cf4985e1b02a15.pdf",
     "static/media/Star_of_the_Month_Award_2021.pdf": "/static/media/Star_of_the_Month_Award_2021.168a82a7f3016d2385db.pdf",
     "static/media/Recognition_Q2_21.pdf": "/static/media/Recognition_Q2_21.bb5b7b3cdbc15965b722.pdf",
@@ -12,9 +12,9 @@
     "static/media/logoTCS.webp": "/static/media/logoTCS.3985232dc513d4cab8eb.webp",
     "static/media/avidanPropertiesLogo.webp": "/static/media/avidanPropertiesLogo.ee2c1cbbd1536c10405e.webp",
     "static/media/medal.webp": "/static/media/medal.7e870ec4276776a421bb.webp",
+    "static/media/atoms.webp": "/static/media/atoms.7c4114d88fa5233ecf6e.webp",
     "static/media/handshake.webp": "/static/media/handshake.b75b68b4499dc930464a.webp",
     "static/media/google-apps-script.webp": "/static/media/google-apps-script.4d8dfa71b783fd14dcd9.webp",
-    "static/media/atoms.webp": "/static/media/atoms.7eb56e64b223f996d58e.webp",
     "static/media/jquery.webp": "/static/media/jquery.2436d712d0871fbd71ca.webp",
     "static/media/git.webp": "/static/media/git.422dd10297aee7a18e50.webp",
     "static/media/sql-server.webp": "/static/media/sql-server.8746ca75d6938ef18204.webp",
@@ -27,11 +27,11 @@
     "static/media/download.svg": "/static/media/download.399aabf31ccdce1f76685bda3acd3e38.svg",
     "static/media/close.svg": "/static/media/close.e2e72ce7f78b0821ffcc.svg",
     "static/media/toggler.svg": "/static/media/toggler.2855c9bbf250d7110178.svg",
-    "main.a65b81c4.css.map": "/static/css/main.a65b81c4.css.map",
-    "main.79c385b7.js.map": "/static/js/main.79c385b7.js.map"
+    "main.d6cf43fd.css.map": "/static/css/main.d6cf43fd.css.map",
+    "main.60ba7254.js.map": "/static/js/main.60ba7254.js.map"
   },
   "entrypoints": [
-    "static/css/main.a65b81c4.css",
-    "static/js/main.79c385b7.js"
+    "static/css/main.d6cf43fd.css",
+    "static/js/main.60ba7254.js"
   ]
 }
