@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.d6cf43fd.css",
-    "main.js": "/static/js/main.60ba7254.js",
+    "main.js": "/static/js/main.307fb1a4.js",
     "static/media/Star_of_the_Month_Award_2019.pdf": "/static/media/Star_of_the_Month_Award_2019.793e58cf4985e1b02a15.pdf",
     "static/media/Star_of_the_Month_Award_2021.pdf": "/static/media/Star_of_the_Month_Award_2021.168a82a7f3016d2385db.pdf",
     "static/media/Recognition_Q2_21.pdf": "/static/media/Recognition_Q2_21.bb5b7b3cdbc15965b722.pdf",
     "static/media/cvEsequielMorales.pdf": "/static/media/cvEsequielMorales.09fc0bec970b28114d36.pdf",
     "static/media/profile.webp": "/static/media/profile.db94d3184e43ee057721.webp",
-    "static/media/BingoPreview.webp": "/static/media/BingoPreview.7b83b55a6834cefea7ad.webp",
     "static/media/banner.webp": "/static/media/banner.9e955bf4e1baf3b62187.webp",
     "static/media/logoTCS.webp": "/static/media/logoTCS.3985232dc513d4cab8eb.webp",
     "static/media/avidanPropertiesLogo.webp": "/static/media/avidanPropertiesLogo.ee2c1cbbd1536c10405e.webp",
+    "static/media/BingoPreview.webp": "/static/media/BingoPreview.882c549e538650c714a7.webp",
     "static/media/medal.webp": "/static/media/medal.7e870ec4276776a421bb.webp",
     "static/media/atoms.webp": "/static/media/atoms.7c4114d88fa5233ecf6e.webp",
     "static/media/handshake.webp": "/static/media/handshake.b75b68b4499dc930464a.webp",
@@ -28,10 +28,10 @@
     "static/media/close.svg": "/static/media/close.e2e72ce7f78b0821ffcc.svg",
     "static/media/toggler.svg": "/static/media/toggler.2855c9bbf250d7110178.svg",
     "main.d6cf43fd.css.map": "/static/css/main.d6cf43fd.css.map",
-    "main.60ba7254.js.map": "/static/js/main.60ba7254.js.map"
+    "main.307fb1a4.js.map": "/static/js/main.307fb1a4.js.map"
   },
   "entrypoints": [
     "static/css/main.d6cf43fd.css",
-    "static/js/main.60ba7254.js"
+    "static/js/main.307fb1a4.js"
   ]
 }
