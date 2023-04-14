@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.2b7d165a.css",
-    "main.js": "/static/js/main.95feb9f0.js",
+    "main.css": "/static/css/main.73db5583.css",
+    "main.js": "/static/js/main.b7955d71.js",
     "static/media/Star_of_the_Month_Award_2019.pdf": "/static/media/Star_of_the_Month_Award_2019.793e58cf4985e1b02a15.pdf",
     "static/media/Star_of_the_Month_Award_2021.pdf": "/static/media/Star_of_the_Month_Award_2021.168a82a7f3016d2385db.pdf",
     "static/media/Recognition_Q2_21.pdf": "/static/media/Recognition_Q2_21.bb5b7b3cdbc15965b722.pdf",
-    "static/media/cvEsequielMorales.pdf": "/static/media/cvEsequielMorales.09fc0bec970b28114d36.pdf",
     "static/media/profile.webp": "/static/media/profile.db94d3184e43ee057721.webp",
+    "static/media/cvEsequielMorales.pdf": "/static/media/cvEsequielMorales.7177557272ae13054929.pdf",
     "static/media/banner.webp": "/static/media/banner.9e955bf4e1baf3b62187.webp",
     "static/media/logoTCS.webp": "/static/media/logoTCS.3985232dc513d4cab8eb.webp",
     "static/media/avidanPropertiesLogo.webp": "/static/media/avidanPropertiesLogo.ee2c1cbbd1536c10405e.webp",
@@ -20,18 +20,18 @@
     "static/media/sql-server.webp": "/static/media/sql-server.8746ca75d6938ef18204.webp",
     "static/media/css-3.webp": "/static/media/css-3.89ed7d6e07798d32a8ea.webp",
     "static/media/html-5.webp": "/static/media/html-5.ef24a1d14b9d3908728c.webp",
-    "static/media/wave.svg": "/static/media/wave.7129e7c21c90b8de7ad4628fcbe51924.svg",
+    "static/media/wave.svg": "/static/media/wave.3fed48249a237f7ed574704ec4c3c35a.svg",
     "static/media/js.webp": "/static/media/js.168f9e5ca1450f61cfd0.webp",
     "static/media/bootstrap.webp": "/static/media/bootstrap.0823136573b28cd37748.webp",
     "index.html": "/index.html",
     "static/media/download.svg": "/static/media/download.399aabf31ccdce1f76685bda3acd3e38.svg",
     "static/media/close.svg": "/static/media/close.e2e72ce7f78b0821ffcc.svg",
     "static/media/toggler.svg": "/static/media/toggler.2855c9bbf250d7110178.svg",
-    "main.2b7d165a.css.map": "/static/css/main.2b7d165a.css.map",
-    "main.95feb9f0.js.map": "/static/js/main.95feb9f0.js.map"
+    "main.73db5583.css.map": "/static/css/main.73db5583.css.map",
+    "main.b7955d71.js.map": "/static/js/main.b7955d71.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b7d165a.css",
-    "static/js/main.95feb9f0.js"
+    "static/css/main.73db5583.css",
+    "static/js/main.b7955d71.js"
   ]
 }
